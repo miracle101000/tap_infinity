@@ -30,7 +30,7 @@ We may update our Privacy Policy from time to time. Thus, we advise you to revie
 
 ## Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [contact@email.com].
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [okolomiracle76@outlook.com].
 
 By using Tap Infinity, you agree to the terms and conditions outlined in this Privacy Policy.
 
