@@ -10,19 +10,7 @@ By using 10,000,000 Clicks, you agree to the collection and use of information i
 
 ### Usage Data
 
-10,000,000 Clicks does not collect any personally identifiable information. We may collect non-personally identifiable information about how the App is accessed and used ("Usage Data"). This may include information such as your device's Internet Protocol address (e.g., IP address), device type, operating system version, and the time and date of your use of the App.
-
-## How We Use Information
-
-We use the collected information for the following purposes:
-
-- To maintain and improve the App's functionality.
-- To monitor and analyze the usage of the App.
-- To detect, prevent, and address technical issues.
-
-## Data Security
-
-The security of your data is important to us, but please be aware that no method of transmission over the Internet or electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security.
+10,000,000 Clicks does not collect any personally identifiable information. 
 
 ## Changes to This Privacy Policy
 
