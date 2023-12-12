@@ -1,6 +1,6 @@
 # 10,000,000 Clicks Privacy Policy
 
-Last Updated:  December 5, 2023
+Last Updated:  December 12, 2023
 
 Welcome to 10,000,000 Clicks! This Privacy Policy describes how 10,000,000 Clicks ("we," "us," or "our") collects, uses, and shares information when you use our "10,000,000 Clicks" game app (the "App").
 
